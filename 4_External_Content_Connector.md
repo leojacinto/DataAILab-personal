@@ -128,6 +128,6 @@ Congratulations! You have completed configuration of the **External Content Conn
 
 ## Next step
 
-Keeping with the unstructured data theme, you can explore an exercise that focuses on how ServiceNow gets unstructured data from documents and feed them into ServiceNow forms or records.
+We will now explore accessing data from external systems using LLM through Model Context Protocol.
 
 [Take me back to main page](./)
